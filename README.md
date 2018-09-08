@@ -1,2 +1,2 @@
 # moduletandav.github.io
-Repository to track learningd
+Repository to track learnings
